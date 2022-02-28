@@ -1,7 +1,7 @@
 <html>
     <body>
 
-<? php 
+<?php 
 echo "This is the search page";
 
 
